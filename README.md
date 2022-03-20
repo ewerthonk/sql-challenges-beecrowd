@@ -1,6 +1,6 @@
 # SQL Challenges
 
-Solution of all 46 SQL Problems from [Beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/9) (Which was previously called URI).
+Solution of all 46 SQL Problems from [Beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/9) (previously called URI).
 
 🔗 Click here to go to the [SQL File](/solutions-sql-problems_beecrowd.sql).
 
@@ -28,7 +28,7 @@ Besides SELECT, FROM, JOINS, WHERE, GROUP BY, ORDER BY, DISTINCT, etc., You will
 
 **Beecrowd #2988: Cearense Championship**
 
--CASE
+- CASE
 
 **Beecrowd #2989: Departments and Divisions**
 
