@@ -1,12 +1,12 @@
-# SQL Challenges
+# Beecrowd SQL Solutions
 
 Solution of all 46 SQL Problems from [Beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/9) (previously called URI).
 
-🔗 Click here to go to the [SQL File](/solutions-sql-problems_beecrowd.sql).
+🔗 [Click here to go to the SQL File](/solutions-sql-problems_beecrowd.sql).
 
-# 💡 SQL Concepts
+## 💡 SQL Concepts
 
-Besides SELECT, FROM, JOINS, WHERE, GROUP BY, ORDER BY, DISTINCT, etc., You will find the following concepts:
+Besides SELECT, FROM, JOINS, WHERE, GROUP BY, ORDER BY, DISTINCT, etc., you will find the following concepts:
 
 **Beecrowd #2614: Semptember Rentals**
 
@@ -41,10 +41,10 @@ Besides SELECT, FROM, JOINS, WHERE, GROUP BY, ORDER BY, DISTINCT, etc., You will
 - OVER 
 - PARTITION BY
 
-# 📝 SQL Style Guide
+## 📝 SQL Style Guide
 
 [SQLFluff](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/)
 
-# ✅ Completed challenges
+## ✅ Completed challenges
 
 <img src="images/beecrowd-sql-problems.png">
