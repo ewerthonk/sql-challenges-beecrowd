@@ -1,6 +1,12 @@
 # Beecrowd SQL Solutions
 
-<img src="./images/sql-challenges-beecrowd.png">
+<style>
+img {
+    display: block;
+    margin: 0 auto;
+}
+</style>
+<img src="./images/sql-challenges-beecrowd.png" width="500">
 
 Solution of all 46 SQL Problems from [Beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/9) (previously called URI).
 
