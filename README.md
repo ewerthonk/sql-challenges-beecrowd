@@ -2,6 +2,8 @@
 
 <p align="center"><img src="./images/sql-challenges-beecrowd.png" width="500"></p>
 
+<div align="center"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></div>
+
 Solution of all 46 SQL Problems from [Beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/9) (previously called URI).
 
 🔗 [Click here to go to the SQL File](/solutions-sql-problems_beecrowd.sql).
@@ -11,12 +13,11 @@ Solution of all 46 SQL Problems from [Beecrowd](https://www.beecrowd.com.br/judg
 Besides SELECT, FROM, JOINS, WHERE, GROUP BY, ORDER BY, DISTINCT, etc., you will find the following concepts:
 
 **Beecrowd #2614: Semptember Rentals**
-
 - Date Comparison
 
 **Beecrowd #2625: CPF Validation**
 
-- REGEXP_REPLACE
+- REGEXP_REPLACESS
 - SUBSTR
 
 **Beecrowd #2737: Lawyers**
