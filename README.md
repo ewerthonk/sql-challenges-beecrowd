@@ -17,7 +17,7 @@ Besides SELECT, FROM, JOINS, WHERE, GROUP BY, ORDER BY, DISTINCT, etc., you will
 
 **Beecrowd #2625: CPF Validation**
 
-- REGEXP_REPLACESS
+- REGEXP_REPLACE
 - SUBSTR
 
 **Beecrowd #2737: Lawyers**
