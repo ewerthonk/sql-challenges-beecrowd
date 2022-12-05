@@ -1,7 +1,5 @@
 # Beecrowd SQL Solutions
 
-<p align="center"><img src="./images/sql-challenges-beecrowd.png" width="500"></p>
-
 <div align="center"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></div>
 
 Solution of all 46 SQL Problems from [Beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/9) (previously called URI).
