@@ -1,51 +1,47 @@
 # Beecrowd SQL Solutions
 
-<div align="center"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></div>
+*Solution to every single one of the 46 Beecrowd Challenges.*
+
+<div align="center">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
+
+# 📖 Project
+
+### 👨🏻‍🏫 Introduction
 
 Solution of all 46 SQL Problems from [Beecrowd](https://www.beecrowd.com.br/judge/en/problems/index/9) (previously called URI).
 
-🔗 [Click here to go to the SQL File](/solutions-sql-problems_beecrowd.sql).
+Every challenge was solved following the [SQLFluff](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/) style guide.
 
-## 💡 SQL Concepts
+### 💡 SQL Concepts
 
-Besides SELECT, FROM, JOINS, WHERE, GROUP BY, ORDER BY, DISTINCT, etc., you will find the following concepts:
-
-**Beecrowd #2614: Semptember Rentals**
-- Date Comparison
-
-**Beecrowd #2625: CPF Validation**
-
+The following concepts were execised during the challenge solving:
+- DATE comparisons
+- DISTINCT
 - REGEXP_REPLACE
 - SUBSTR
-
-**Beecrowd #2737: Lawyers**
-
-- CTE
-
-**Beecrowd #2738: Contest**
-
+- CTEs
 - CONCAT 
 - Subquery
-
-**Beecrowd #2988: Cearense Championship**
-
-- CASE
-
-**Beecrowd #2989: Departments and Divisions**
-
 - Many-to-many table relations 
 - Complex Joins and Subqueries 
 - COALESCE
-
-**Beecrowd #2992: Highest Avarage Salary Divisions & beecrowd #2998: The Payback**
-
 - OVER 
 - PARTITION BY
 
-## 📝 SQL Style Guide
+# 🗄 SQL File
 
-[SQLFluff](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide/)
+- [solutions-sql-problems_beecrowd.sql](solutions-sql-problems_beecrowd.sql)
 
-## ✅ Completed challenges
+# ✅ Completed challenges
 
-<img src="images/beecrowd-sql-problems.png">
+<img src="references/beecrowd-sql-problems.png">
+
+# 📦 Folder Structure
+
+    ├── LICENSE
+    ├── README.md                             <- The top-level README for developers using this project.
+    ├── references                            <- Explanatory materials.
+    │
+    ├── solutions-sql-problems_beecrowd.sql   <- file with SQL beecrowd solutions

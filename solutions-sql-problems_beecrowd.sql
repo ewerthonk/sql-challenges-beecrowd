@@ -11,7 +11,7 @@ Followed Style Guide: https://about.gitlab.com/handbook/business-technology/data
 
 -- Solution:
 
-SELECT name FROM customers WHERE lower(state) = 'rs' 
+SELECT name FROM customers WHERE LOWER(state) = 'rs' 
 ;
 
 
