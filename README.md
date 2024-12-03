@@ -1,12 +1,17 @@
 # Beecrowd SQL Solutions
 
-*Solution to every single one of the 46 Beecrowd Challenges.*
+
+<div align="center">
+  <em>Solution to every single one of the 46 Beecrowd Challenges.</em>
+</div>
+
+<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-# 📖 Project
+## 📖 Project
 
 ### 👨🏻‍🏫 Introduction
 
@@ -30,15 +35,15 @@ The following concepts were execised during the challenge solving:
 - OVER 
 - PARTITION BY
 
-# 🗄 SQL File
+## 🗄 SQL File
 
 - [solutions-sql-problems_beecrowd.sql](solutions-sql-problems_beecrowd.sql)
 
-# ✅ Completed challenges
+## ✅ Completed challenges
 
 <img src="references/beecrowd-sql-problems.png">
 
-# 📦 Folder Structure
+## 📦 Folder Structure
 
     ├── LICENSE
     ├── README.md                             <- The top-level README for developers using this project.
